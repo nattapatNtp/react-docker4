@@ -27,4 +27,4 @@ jobs:
 
     # ขั้นตอนที่สี่: Push Docker image ไปที่ Docker Hub
     - name: Push Docker image to Docker Hub
-      run: docker push nattapat2003/react-docker-test-4:0.3
+      run: docker push nattapat2003/react-docker-test-4:0.2
